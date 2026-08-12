@@ -1,4 +1,4 @@
-# Leverage Cloud for Learning --- Hands-On Labs
+# Leveraging Cloud for Learning --- Hands-On Labs
 
 This repository documents a four-lab hands-on learning series focused on
 practical IT, networking, security, SIEM, ITSM, and
