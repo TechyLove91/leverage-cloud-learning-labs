@@ -1,6 +1,6 @@
 # Lab 3 — ServiceNow ITSM Implementation
 
-A hands-on IT Service Management project built on a free ServiceNow Personal Developer Instance, covering the full incident lifecycle, service catalogue design, change management with approvals, and operational reporting — aligned with ITIL 4 Foundation and CompTIA A+/Network+ concepts.
+A hands-on IT Service Management project built on a free ServiceNow Personal Developer Instance, covering the full incident lifecycle, service catalog design, change management with approvals, and operational reporting — aligned with ITIL 4 Foundation and CompTIA A+/Network+ concepts.
 
 ## Overview
 
@@ -11,7 +11,7 @@ Enterprise IT teams don't handle problems ad hoc — they run them through a str
 | Area | What Was Built |
 |---|---|
 | **Incident Management** | Created, triaged, and resolved a full incident lifecycle — including work notes, priority assignment, and resolution documentation |
-| **Service Catalogue** | Designed a self-service "New Laptop Request" catalogue item with mandatory/optional variables and a fulfillment group |
+| **Service Catalog** | Designed a self-service "New Laptop Request" catalog item with mandatory/optional variables and a fulfillment group |
 | **Change Management** | Submitted a standard change request with risk/impact assessment, test/backout plans, and routed it through an approval workflow |
 | **Reporting** | Built dashboards for incident volume by priority, Mean Time to Resolution (MTTR) by team, and open incidents by agent |
 
@@ -25,14 +25,14 @@ Simulated a real-world scenario: a user unable to access Outlook due to a corrup
 
 **Why it matters:** Incident handling is the core daily function of every help desk and support role. Proper documentation of root cause (not just symptoms) is what separates reactive fixing from professional IT support.
 
-### 2. Service Catalogue Item
+### 2. Service Catalog Item
 Built a "New Laptop Request" item with custom variables:
 - Requester Name (required)
 - Business Justification (required)
 - Required By Date (required)
 - Laptop Model Preference (optional, dropdown)
 
-**Why it matters:** Service catalogues let end users self-serve routine requests without generating help desk tickets, directly reducing ticket volume and response time for higher-priority issues.
+**Why it matters:** Service catalog let end users self-serve routine requests without generating help desk tickets, directly reducing ticket volume and response time for higher-priority issues.
 
 ### 3. Change Management & Approval Workflow
 Submitted a standard change (security patch deployment) including:
@@ -77,9 +77,9 @@ Created three reports:
 ![Incident Resolution](./Incident%20Resolution.png)
 *Closed incident showing work notes and resolution notes together — full lifecycle from triage to root-cause fix.*
 
-### Service Catalogue Item
+### Service Catalog Item
 ![User Facing New Laptop Request](./User%20Facing%20NLR.png)
-*New Laptop Request catalogue item as it appears to end users in the self-service portal.*
+*New Laptop Request catalog item as it appears to end users in the self-service portal.*
 
 ![Variables Configuration](./Variables.png)
 *Variable configuration behind the New Laptop Request item — required/optional fields and the model preference dropdown.*
