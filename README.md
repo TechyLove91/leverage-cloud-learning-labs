@@ -14,7 +14,7 @@ vulnerability-management skills.
 
   02                      Splunk SIEM & Log Analysis                    Planned
 
-  03                      ServiceNow ITSM                               Planned
+  03                      [ServiceNow ITSM] (./03-servicenow-itsm/)                               Complete
 
   04                      Nessus Vulnerability Scanning                 Planned
   ---------------------------------------------------------------------------------------------
