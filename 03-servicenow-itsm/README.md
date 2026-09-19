@@ -71,8 +71,6 @@ Created three reports:
 
 ## Screenshots
 
-*(Place these five screenshot files in this same folder for the images below to render.)*
-
 ### Incident Management
 ![Incident Resolution](./Incident%20Resolution.png)
 *Closed incident showing work notes and resolution notes together — full lifecycle from triage to root-cause fix.*
