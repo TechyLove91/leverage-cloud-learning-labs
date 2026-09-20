@@ -9,8 +9,7 @@ vulnerability-management skills.
   ---------------------------------------------------------------------------------------------
   Lab                     Topic                                         Status
   ----------------------- --------------------------------------------- -----------------------
-  01                      [Wireshark & Network                         
-                          Analysis](./01-wireshark-network-analysis/)   
+  01                      [Wireshark & Network Analysis](./01-wireshark-network-analysis/)   
 
   02                      Splunk SIEM & Log Analysis   -                  Planned
 
