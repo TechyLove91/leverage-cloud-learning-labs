@@ -12,7 +12,7 @@ vulnerability-management skills.
   01                      [Wireshark & Network                         
                           Analysis](./01-wireshark-network-analysis/)   
 
-  02                      Splunk SIEM & Log Analysis                    Planned
+  02                      Splunk SIEM & Log Analysis   -                  Planned
 
   03                      [ServiceNow ITSM](./03-servicenow-itsm/)                              
 
