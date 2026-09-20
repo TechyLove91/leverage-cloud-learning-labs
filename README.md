@@ -50,9 +50,5 @@ leverage-cloud-learning-labs/
 └── 04-nessus-vulnerability-scanning/
 ```
 
-The folders for Labs 02--04 can be added as each lab is completed so
-that their documentation reflects the actual work performed and evidence
-collected.
-
 > This repository contains educational lab work performed in authorized
 > test environments.
