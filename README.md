@@ -9,14 +9,15 @@ vulnerability-management skills.
   ---------------------------------------------------------------------------------------------
   Lab                     Topic                                         Status
   ----------------------- --------------------------------------------- -----------------------
-  01                      [Wireshark & Network                          Complete
+  01                      [Wireshark & Network                         
                           Analysis](./01-wireshark-network-analysis/)   
 
   02                      Splunk SIEM & Log Analysis                    Planned
 
   03                      [ServiceNow ITSM](./03-servicenow-itsm/)                              
 
-  04                      [Nessus Vulnerability Scanning](./04-nessus-vulnerability-scanning/)                 
+  04                      [Nessus Vulnerability Scanning](./04-nessus-vulnerability-scanning/) 
+  
   ---------------------------------------------------------------------------------------------
 
 ## Purpose
