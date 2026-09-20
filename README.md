@@ -16,7 +16,7 @@ vulnerability-management skills.
 
   03                      [ServiceNow ITSM](./03-servicenow-itsm/)                              
 
-  04                      Nessus Vulnerability Scanning                 Planned
+  04                      [Nessus Vulnerability Scanning](./04-nessus-vulnerability-scanning/)                 
   ---------------------------------------------------------------------------------------------
 
 ## Purpose
